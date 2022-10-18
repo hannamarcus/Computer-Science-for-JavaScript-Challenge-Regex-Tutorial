@@ -1,9 +1,10 @@
-# Regex Tutorial Starter Code
+# Regex Tutorial: Match an Email 
 
 ## User Story
 * AS A web development student
 * I WANT a tutorial explaining a specific regex
 * SO THAT I can understand the search pattern the regex defines
+
 ## Acceptance Criteria
 * GIVEN a regex tutorial
 * WHEN I open the tutorial
@@ -17,4 +18,8 @@
 
 ## Screenshot of gist:
 
-## URL gist: 
+## URL gist:
+* https://github.com/hannamarcus/Computer-Science-for-JavaScript-Challenge-Regex-Tutorial/blob/a958e73f66816f7e45dee050a267f084eb35e09e/Develop/gist-template.md 
+
+## URL Repo: 
+* https://github.com/hannamarcus/Computer-Science-for-JavaScript-Challenge-Regex-Tutorial
