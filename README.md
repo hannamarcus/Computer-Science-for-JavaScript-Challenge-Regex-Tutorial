@@ -20,7 +20,7 @@
 <img width="1132" alt="Screen Shot 2022-10-17 at 9 12 46 PM" src="https://user-images.githubusercontent.com/106893601/196333892-517d972d-e924-4904-8c2d-7881c5983de0.png">
 
 ## URL gist:
-* https://github.com/hannamarcus/Computer-Science-for-JavaScript-Challenge-Regex-Tutorial/blob/a958e73f66816f7e45dee050a267f084eb35e09e/Develop/gist-template.md 
+* https://github.com/hannamarcus/Computer-Science-for-JavaScript-Challenge-Regex-Tutorial/blob/802a7dff472be64ce7f9ad3d313f9e5af492dda2/Develop/gist.md
 
 ## URL Repo: 
 * https://github.com/hannamarcus/Computer-Science-for-JavaScript-Challenge-Regex-Tutorial
